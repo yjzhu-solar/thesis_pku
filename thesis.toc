@@ -1,0 +1,121 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{序言}{1}{chapter*.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}引言}{3}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}太阳及M矮星爆发活动简介}{3}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.1}太阳耀斑}{3}{subsection.1.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.2}Ellerman炸弹}{6}{subsection.1.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.3}紫外爆发}{6}{subsection.1.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.4}M矮星上的恒星耀斑}{9}{subsection.1.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}辐射转移与谱线形成理论简介}{11}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.1}辐射转移方程}{11}{subsection.1.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.2}谱线形成分析}{14}{subsection.1.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.3}谱线的致宽}{15}{subsection.1.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.4}谱线散射的频率再分布}{16}{subsection.1.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.5}磁场与谱线的Stokes参数}{17}{subsection.1.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}耀斑带上色球及过渡区紫外谱线诊断简介}{18}{section.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.1}Mg \textsc {ii}线}{19}{subsection.1.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.2}Si \textsc {iv}线}{21}{subsection.1.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.3}C \textsc {ii}线}{22}{subsection.1.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}研究动机}{23}{section.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}研究方法概述}{24}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}RADYN代码}{24}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.1}流体力学及辐射转移方程组}{24}{subsection.2.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.2}光学厚与光学薄辐射转移}{25}{subsection.2.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.3}加热机制}{25}{subsection.2.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.4}初始输入}{26}{subsection.2.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}RH代码}{27}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}求解过程}{27}{subsection.2.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}输入输出}{27}{subsection.2.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.3}Stark致宽效应处理}{28}{subsection.2.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}STARK-B数据库}{29}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}事件研究：2014年3月29日耀斑}{31}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}耀斑事件与光谱观测简介}{31}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}模拟输入设定}{32}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}大气演化过程}{32}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}谱线演化：Mg \textsc {ii}}{34}{section.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}谱线演化：C \textsc {ii}}{38}{section.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}谱线演化：Si \textsc {iv}}{40}{section.3.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.7}谱线形成分析}{42}{section.3.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.8}He \textsc {i} 10830 \unhbox \voidb@x \hbox {\r A}线的Stokes参数变化}{46}{section.3.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.9}讨论}{48}{section.3.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}参数研究：Mg \textsc {ii}谱线在M矮星耀斑非热电子束加热下的响应}{52}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}初始条件设定}{52}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}大气演化特征}{53}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}谱线演化特征}{57}{section.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}形成高度分析}{62}{section.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}讨论}{65}{section.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {第五章\hspace {.3em}}谱线对低高度小尺度加热的响应}{67}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}研究方法}{67}{section.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}初始设置}{67}{section.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}合成光谱与讨论}{69}{section.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {第六章\hspace {.3em}}结论}{73}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{参考文献}{75}{appendix*.53}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}对RH代码的修改与讨论}{87}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.1}对RH代码的修改}{87}{section.A.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.1}嵌入STARK-B数据库结果}{87}{subsection.A.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.2}提供辐射流量输出}{87}{subsection.A.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.3}用于修改大气的可视化Ipython Notebook}{87}{subsection.A.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.2}RH对Mg \textsc {ii}的Stark致宽的处理究竟有哪些问题？}{89}{section.A.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {附录 B\hspace {.3em}}本科期间的主要工作和成果}{91}{appendix.B}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{致谢}{92}{appendix*.55}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{北京大学学位论文原创性声明和使用授权说明}{94}{appendix*.56}

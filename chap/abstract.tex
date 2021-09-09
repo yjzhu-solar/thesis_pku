@@ -1,0 +1,14 @@
+% Copyright (c) 2014,2016 Casper Ti. Vector
+% Public domain.
+
+\begin{cabstract}
+	太阳及其他恒星（如M矮星）上的各种各样爆发活动往往在光谱观测中展现出不同的辐射特征。本文利用一维辐射流体力学模拟代码RADYN和一维平面平行层大气辐射转移计算代码RH，对太阳上的大尺度爆发（耀斑）和小尺度爆发（Ellerman炸弹，UV爆发）以及M矮星上爆发的恒星耀斑的一维大气动力学演化和辐射转移过程进行了的模拟。在对2014年3月29日耀斑的模拟中，我们发现相比于谱线致宽数据库STARK-B给出的数据，现有RH代码低估了Mg \textsc{ii}谱线的Stark致宽效应一个量级。在使用了STARK-B数据库的数据之后，我们发现仍需乘上一个30倍的因子才能再现观测到的谱线轮廓。我们首次在自洽的一维耀斑大气模拟中再现了观测到的无线心反转特征的Mg \textsc{ii} h和k线轮廓，其线心形成在电子密度约为$8\times 10^{14}\ \mathrm{cm^{-3}}$的高色球区域。尽管我们能比较好地再现Mg \textsc{ii}的谱线轮廓，但是难以在模拟上再现C \textsc{ii}和Si \textsc{iv}线持续红移的观测结果。这可能是由于模拟对耀斑衰变相的冷却估计不足和Si的原子模型中未包含Si \textsc{i}和\textsc{ii}能级。在对M矮星耀斑的不同电子束参数的参数研究中，我们发现高截止能量的非热电子在产生白光辐射谱的同时，并未重现出观测到的Mg \textsc{ii} h和k线的谱线轮廓特征。在对太阳低层大气小尺度加热的半经验模拟中，我们发现Mg \textsc{ii} h和k的线翼辐射都对0.25-1 Mm高度范围内加热至$\sim 10^4$ K左右的小尺度加热过程比较敏感。同时我们发现在低层大气存在加热时，有时H$\alpha$线存在线心线翼辐射强度降低的现象。
+	
+\end{cabstract}
+
+\begin{eabstract}
+	Eruptive events on the sun and some other stars like M dwarfs (dMe) have shown different characteristics in spectroscopic observations. Here we perform 1D radiative hydrodynamics (RHD) simulation or calculate1D radiative transfer of both large-scale (solar flares and dMe flares) and small-scale events (solar UV bursts and Ellerman bombs). In the simulation of an X1.1-class solar flare happened on March 29, 2014, we found that the current RH code underestimates the Stark broadening by about one order of magnitude when compared with the result from the STARK-B database. However, Stark widths obtained from STARK-B  have to be multiplied by another factor of 30 to reproduce the extremely broadened Mg \textsc{ii} h, k and triplet lines in observations. We have also successfully reproduced the non-reversed Mg \textsc{ii} h and k profiles in a self-consistent atmosphere for the first time. The electron density at the line core formation height is $\sim 8\times 10^4$ K in the upper chromosphere, where the source function is still coupled to the Planck function. However, we could not reproduce the persistent red-shifted C \textsc{ii} and Si \textsc{iv} profiles at the same time, probably caused by the unrealistic treatment of cooling during the flare decay phase in the code and the fact that the Si atom file we use in RH does not include Si \textsc{i} and \textsc{i} energy levels. In the parameter study of Mg \textsc{ii} profiles at dMe flare ribbons, we found that models which successfully reproduced $T\sim 10000$ K white light continuum could not reproduce Mg \textsc{ii} line profiles observed on YZ CMi. We found that the Mg \textsc{ii} h and k line wing emissions are sensitive to the heating to $\sim 10^4$ K between 0.25 and 1.0 Mm in our semi-empirical modeling of small-scale heating in the solar atmosphere. We also found that the H$\alpha$ intensity may decrease both at the line core and wings when the lower atmosphere is heated.
+\end{eabstract}	
+	
+	
+	% vim:ts=4:sw=4

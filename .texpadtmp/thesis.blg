@@ -1,0 +1,18 @@
+[0] Config.pm:302> INFO - This is Biber 2.11
+[0] Config.pm:305> INFO - Logfile is '/Users/yjzhu/Desktop/Solar/papers/thesis_2019/example/.texpadtmp/thesis.blg'
+[46] biber-darwin:313> INFO - === Sun May 12, 2019, 16:02:15
+[68] Biber.pm:371> INFO - Reading '/Users/yjzhu/Desktop/Solar/papers/thesis_2019/example/.texpadtmp/thesis.bcf'
+[146] Biber.pm:857> INFO - Found 5 citekeys in bib section 0
+[158] Biber.pm:3976> INFO - Processing section 0
+[169] Biber.pm:4136> INFO - Looking for bibtex format file '/Users/yjzhu/Desktop/Solar/papers/thesis_2019/example/thesis.bib' for section 0
+[170] bibtex.pm:1500> INFO - LaTeX decoding ...
+[181] bibtex.pm:1316> INFO - Found BibTeX data source '/Users/yjzhu/Desktop/Solar/papers/thesis_2019/example/thesis.bib'
+[202] Utils.pm:193> WARN - month field 'Feb' in entry 'Kowalski2017a' is not an integer - this will probably not sort properly.
+[217] Utils.pm:193> WARN - month field 'Mar' in entry 'Kowalski2017b' is not an integer - this will probably not sort properly.
+[230] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[230] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[230] Biber.pm:3804> INFO - Sorting list 'ecnty/global//global/global' of type 'entry' with template 'ecnty' and locale 'en-US'
+[230] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[236] bbl.pm:617> INFO - Writing '/Users/yjzhu/Desktop/Solar/papers/thesis_2019/example/.texpadtmp/thesis.bbl' with encoding 'UTF-8'
+[238] bbl.pm:720> INFO - Output to /Users/yjzhu/Desktop/Solar/papers/thesis_2019/example/.texpadtmp/thesis.bbl
+[238] Biber.pm:110> INFO - WARNINGS: 2

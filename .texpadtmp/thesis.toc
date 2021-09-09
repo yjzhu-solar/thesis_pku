@@ -1,0 +1,67 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{序言}{1}{chapter*.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}概述}{3}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}太阳及M矮星爆发活动简介}{3}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.1}耀斑}{3}{subsection.1.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.2}Ellerman炸弹}{3}{subsection.1.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.3}UV爆发}{3}{subsection.1.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}UV谱线诊断简介}{3}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.1}辐射转移与谱线形成}{3}{subsection.1.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.2}Mg II线}{3}{subsection.1.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.3}Si IV线}{3}{subsection.1.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.4}C II线}{3}{subsection.1.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}辐射流体力学模拟简介}{3}{section.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}观测仪器简介}{3}{section.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4.1}太阳过渡层成像光谱仪卫星}{3}{subsection.1.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4.2}宇宙起源光谱仪}{3}{subsection.1.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}研究方法概述}{5}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}RADYN代码}{5}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}RH代码}{5}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}STARK-B数据库}{5}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}事件研究：2014年3月29日耀斑}{7}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}参数研究：C II谱线在不同耀斑非热电子束加热下的响应}{9}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}太阳}{9}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}M矮星}{9}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {第五章\hspace {.3em}}UV谱线对低高度小尺度加热的响应}{11}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}研究方法}{11}{section.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Ellerman炸弹}{11}{section.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}UV爆发}{11}{section.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {第六章\hspace {.3em}}磁场对UV谱线Stokes参数的影响}{13}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{结论}{15}{chapter*.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{参考文献}{17}{appendix*.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}附件}{19}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{致谢}{21}{appendix*.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{北京大学学位论文原创性声明和使用授权说明}{23}{appendix*.11}
